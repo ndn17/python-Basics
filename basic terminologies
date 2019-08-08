@@ -1,0 +1,9 @@
+x=5 ;asignacion
+x==5 ; igualdad
+
+""" funciones """
+def _function(arg1,arg2,....):
+      global variable       """ globas es una palabra reservada para agregar variavles externas
+      
+
+ESTRUCTURAS CONDICIONALES
